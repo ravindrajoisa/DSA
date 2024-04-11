@@ -22,7 +22,6 @@ Do point a and b above 18 times.
 
 prev2 = 0
 prev1 = 1
-
 print(prev2)
 print(prev1)
 for fibo in range(18):
