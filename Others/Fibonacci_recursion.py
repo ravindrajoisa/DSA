@@ -1,4 +1,4 @@
-# Recursion is when a function calls itself.
+# Recursion is when a function calls itself. Fibonacci using recursion.
 
 print(0)
 print(1)
