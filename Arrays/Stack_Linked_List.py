@@ -44,5 +44,3 @@ print("Peek: ", myStack.peek())
 print("isEmpty: ", myStack.isEmpty())
 print("Size: ", myStack.stackSize())
 
-
-#works online
